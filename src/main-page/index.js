@@ -1,4 +1,5 @@
 import { useState, useEffect, useMemo } from "react";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import "./main-page.css";
 import Header from "./header";
 import FeaturedHouse from "./featured-house";
