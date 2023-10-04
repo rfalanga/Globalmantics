@@ -20,8 +20,8 @@ const HouseFilter = ({ allHouses }) => {
       </div>
       <div className="col-md-4 mb-3">
         <select className="form-select" onChange={onSearchChange}>
-          {countries.map((c) => (
-            <option key={c} value={c}>
+          {countries.map((c) => ( 
+            <option key={c} value={c}>  // This creates the items (option) to be put into the HTML Select
               {c}
             </option>
           ))}
