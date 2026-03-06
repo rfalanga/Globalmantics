@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,4 +72,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # Globalmantics
 Source for a Pluralsight course I'm going through
->>>>>>> d958ea59312da01db0af6adc5d0ff6a1c741d194
